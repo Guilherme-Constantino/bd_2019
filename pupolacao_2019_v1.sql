@@ -1,45 +1,45 @@
 *********** 20 inserts ************
 
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Joao da Silva ,M ,39949601002 ,292864462 ,64017016 ,Teresina ,Redenção ,Rua Heitor Cavalcante , , , , );
+VALUES (NEXTVAL(id_profissional) ,Joao da Silva ,M ,39949601002 ,292864462 ,64017016 ,Teresina ,Redenção ,Rua Heitor Cavalcante ,234 ,NULL ,99789827 ,Secretaria );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Ronaldo Santos ,M ,13487614073 ,190099938 ,65045790 ,São Luís ,Anil ,Rua do Maracajá , , , , );
+VALUES (NEXTVAL(id_profissional) ,Ronaldo Santos ,M ,13487614073 ,190099938 ,65045790 ,São Luís ,Anil ,Rua do Maracajá ,2087 ,NULL ,99361218 ,Secretaria );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Amanda Ferreira ,F ,44467118063 ,488422218 ,95080355 ,Caxias do Sul ,São Leopoldo ,Rua Angelo Trentin , , , , );
+VALUES (NEXTVAL(id_profissional) ,Amanda Ferreira ,F ,44467118063 ,488422218 ,95080355 ,Caxias do Sul ,São Leopoldo ,Rua Angelo Trentin ,544 ,NULL ,99360224 ,Secretaria );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Marcelo Lima Bastos ,F ,64823938020 ,282207661 ,69317284 ,Boa Vista ,Alvorada ,Rua Z-3 , , , , );
+VALUES (NEXTVAL(id_profissional) ,Marcelo Lima Bastos ,F ,64823938020 ,282207661 ,69317284 ,Boa Vista ,Alvorada ,Rua Z-3 ,981 ,NULL ,99364235 ,Secretaria );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Pedro Ferraz ,M ,46244492072 ,164549638 ,57055515 ,Maceió ,Pinheiro ,Avenida Doutor Muniz Falcão , , , , );
+VALUES (NEXTVAL(id_profissional) ,Pedro Ferraz ,M ,46244492072 ,164549638 ,57055515 ,Maceió ,Pinheiro ,Avenida Doutor Muniz Falcão ,122 ,NULL ,99780986 ,Secretaria );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Veridiana Monet, 85513726025 ,131847764 ,76913750 ,Ji-Paraná ,Riachuelo ,Rua Tarauacá , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Veridiana Monet, 85513726025 ,131847764 ,76913750 ,Ji-Paraná ,Riachuelo ,Rua Tarauacá ,45 ,NULL ,99910091 ,Medico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Victoria Araujo, 31249259045 ,106758032 ,79096422 ,Campo Grande ,Rancho Alegre III ,Avenida Prefeito Lúdio Martins Coelho , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Victoria Araujo, 31249259045 ,106758032 ,79096422 ,Campo Grande ,Rancho Alegre III ,Avenida Prefeito Lúdio Martins Coelho ,1233 ,NULL ,99912999 ,Medico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Bruna Constantino, 31132404096 ,310294964 ,69033780 ,Manaus ,São Jorge ,Rua Artur Reis , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Bruna Constantino, 31132404096 ,310294964 ,69033780 ,Manaus ,São Jorge ,Rua Artur Reis ,840 ,NULL ,99365345 ,Medico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Stevan Barros Costa, 17684187058 ,375036131 ,96065530 ,Pelotas ,Três Vendas ,Rua São Manoel , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Stevan Barros Costa, 17684187058 ,375036131 ,96065530 ,Pelotas ,Três Vendas ,Rua São Manoel ,1002 ,NULL ,99918672 ,Medico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Vitor Moral, 93117283064 ,193833578 ,96065530 ,Rua São Manoel ,Três Vendas ,Pelotas , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Vitor Moral, 93117283064 ,193833578 ,96065530 ,Rua São Manoel ,Três Vendas ,Pelotas ,340 ,NULL ,99781218 ,Medico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Higor Pinto de Souza, 42843718007 ,136234124 ,18409590 ,Itapeva ,Parque Cimentolândia ,Rua Nicola Pedecino , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Higor Pinto de Souza, 42843718007 ,136234124 ,18409590 ,Itapeva ,Parque Cimentolândia ,Rua Nicola Pedecino ,501 ,NULL ,99787771 ,Biomedico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Tayna Habreu, 59083907040 ,246637286 ,94955250 ,Cachoeirinha ,Vila Fátima ,Rua Mato Grosso , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Tayna Habreu, 59083907040 ,246637286 ,94955250 ,Cachoeirinha ,Vila Fátima ,Rua Mato Grosso ,371 ,NULL ,99987669 ,Biomedico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Irineu Costa, 98840607030 ,415558906 ,69917728 ,Rio Branco ,Conjunto Universitário ,Rua Rosa de Saron , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Irineu Costa, 98840607030 ,415558906 ,69917728 ,Rio Branco ,Conjunto Universitário ,Rua Rosa de Saron ,2078 ,NULL ,99986688 ,Biomedico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Talita Augusta, 51100609083 ,177080723 ,69917728 ,Rio Branco ,Conjunto Universitário ,Rua Rosa de Saron , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Talita Augusta, 51100609083 ,177080723 ,69917728 ,Rio Branco ,Conjunto Universitário ,Rua Rosa de Saron ,1065 ,NULL ,99987576 ,Biomedico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Heitor Cavalcante, 25023883094 ,143144984 ,81770520 ,Curitiba ,Alto Boqueirão ,Rua João Moraes , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Heitor Cavalcante, 25023883094 ,143144984 ,81770520 ,Curitiba ,Alto Boqueirão ,Rua João Moraes ,1839 ,NULL ,99981955 ,Biomedico );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Amanda Tostes, 02623289093 ,481977399 ,37038106 ,Varginha ,Riviera do Lago ,Rua Thiago Ferreira de Carvalho , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Amanda Tostes, 02623289093 ,481977399 ,37038106 ,Varginha ,Riviera do Lago ,Rua Thiago Ferreira de Carvalho ,2499 ,NULL ,99363025 ,Bioinformata );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Gustavo Lima, 93153771090 ,108184687 ,79092174 ,Campo Grande ,Jardim Bonança ,Rua Salamanca , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Gustavo Lima, 93153771090 ,108184687 ,79092174 ,Campo Grande ,Jardim Bonança ,Rua Salamanca ,1783 ,NULL ,99360013 ,Bioinformata );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Gustavo Fring, 60841096082 ,205689826 ,76811889 ,Porto Velho ,Eldorado ,Rua Anari , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Gustavo Fring, 60841096082 ,205689826 ,76811889 ,Porto Velho ,Eldorado ,Rua Anari ,671 ,NULL ,99983202 ,Bioinformata );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Pedro Tolte, 04998246011 ,496749055 ,78152120 ,Várzea Grande ,São Matheus ,Rua Ilza Terezinha Picoli Pagot , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Pedro Tolte, 04998246011 ,496749055 ,78152120 ,Várzea Grande ,São Matheus ,Rua Ilza Terezinha Picoli Pagot ,617 ,NULL ,99983239 ,Bioinformata );
 INSERT INTO PROFISSIONAL (id_profissional, nome, sexo, CPF, RG, CEP, cidade, bairro, rua, numero, complemento, telefone, cargo)
-VALUES (NEXTVAL(id_profissional) ,Aline Silva, 61015984037 ,404082142 ,50910470 ,Recife ,Jardim São Paulo ,Rua Doutor Pedro Luiz Osório , , , , , );
+VALUES (NEXTVAL(id_profissional) ,Aline Silva, 61015984037 ,404082142 ,50910470 ,Recife ,Jardim São Paulo ,Rua Doutor Pedro Luiz Osório ,888 ,NULL ,99988429 ,Bioinformata );
 
 ********* 5 inserts ***********
 
